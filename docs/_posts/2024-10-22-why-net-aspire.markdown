@@ -14,7 +14,7 @@ As the tech industry as a whole latched on to this new way of working, software 
 
 Well-architected cloud applications make use of a number of features that already existed but were perhaps not as commonly used in smaller, less mature engineering teams. To pick just one example: patterns like continuous integration and continuous development (CI/CD) became full-blown systems with their own tools, languages, file formats, security contexts, and monitoring needs.
 
-As engineers tried to assimilate the vast number of new concepts and tools that seemed to appear weekly, some began to complain that the levels of complexity were rapidly exceeding what could reasonably be understood by an individual developer. 
+As engineers tried to assimilate the vast number of new concepts and tools that seemed to appear weekly, some began to complain that the levels of complexity were rapidly exceeding what could reasonably be understood by a single developer. 
 
 That presented a problem. It was no exaggeration to say that Microsoft had become, for all intents and purposes, a cloud company. That is to say: most of its revenue and much of its hope for future growth were tied to the success of the cloud as a platform. If developers were to lose enthusiasm for cloud development due to an overly steep learning curve, that would sound a warning that would disturb even Satya Nadella's sleep.
 
