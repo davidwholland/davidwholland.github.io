@@ -2,7 +2,7 @@
 layout: post
 title:  "Why .NET Aspire?"
 date:   2024-10-22 13:56:26 -0400
-categories: dotnet
+tags: dotnet programming
 ---
 In 1980, Microsoft was awarded a contract to provide an operating system that would come to be known as MS-DOS for IBM personal computers. Over the next four decades, Microsoft came to dominate much of the IT industry, first with Windows and eventually with the Office suite of products.
 
