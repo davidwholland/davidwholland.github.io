@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Getting Started with Jekyll and GitHub Pages"
+title:  "Day One: Jekyll and GitHub Pages"
 date:   2024-10-22 14:29:02 -0400
 tags: jekyll dayone
 ---
