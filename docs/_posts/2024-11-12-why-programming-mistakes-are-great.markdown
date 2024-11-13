@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why Programming Mistakes Are Great"
+title:  "» Why Programming Mistakes Are Great"
 date:   2024-11-12 21:19:26 -0400
 tags: programming works-on-my-machine
 ---

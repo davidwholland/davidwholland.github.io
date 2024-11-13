@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why .NET Aspire?"
+title:  "» Why .NET Aspire?"
 date:   2024-10-22 13:56:26 -0400
 tags: dotnet programming
 ---
