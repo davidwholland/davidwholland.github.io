@@ -9,14 +9,14 @@ tags: programming works-on-my-machine
 
 I first started programming professionally more than 20-mumble-mumble years ago. At the time, online discussion of programming topics was just starting to become more common. A pervasive theme was how gobsmackingly bad the average programmer was.
 
-Everything you read seemed to emphasize how the industry was just rife with poorly trained, disinterested goons who couldn't program their way through a FizzBuzz exercise without adding a SQL injection vulnerability.
+Everything you read seemed to emphasize how the industry was just rife with poorly trained, disinterested goons who couldn't program their way through a [FizzBuzz](https://leetcode.com/problems/fizz-buzz/description/) exercise without adding a [SQL injection vulnerability](https://en.wikipedia.org/wiki/SQL_injection).
 
 I'm sure many developers had the same reaction I did. I was determined to be different. I was going to do things The Right Way. I believed that if you just cared enough and put in the work, you could basically write code right the first time. And so I began reading. And I read, and I read, and then I read some more. 
 
 What I didn't do enough of early on was actually write code. I was so concerned with learning patterns and practices and avoiding amateur mistakes that I ended up stuck in neutral, unable to just write some code and actually *learn* something.
 
 The truth is simple:
-* Care about your work and do your best.
+* Do the best quality work you can.
 * But realize that making mistakes is one of the best ways to learn how to do things.
 * Write lots and lots of code.
 * And, when you realize you've done something wrong, fix it. (Don't forget this step.)
