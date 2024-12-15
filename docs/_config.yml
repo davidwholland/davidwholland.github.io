@@ -21,7 +21,7 @@
 title: David W. Holland
 email: david@bigtreetechnical.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Copyright © 2024 David W. Holland.
+  David W. Holland is a software engineer, teacher, and writer. He's spent over 20 years in the tech industry, and now he focuses on helping other developers to succeed.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 mastodon:
