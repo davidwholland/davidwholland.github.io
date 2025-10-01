@@ -21,7 +21,7 @@ Docker next walks you through building your first container. As instructed, I cl
 
 `=> ERROR [internal] load metadata for docker.io/library/node:18-alpine`
 
-Docker is tried to load the base nodejs image called `18-alpine`. That operation failed. I'm guessing it has something to do with the security settings on my Mac.
+Docker tried to load the base nodejs image called `18-alpine`. That operation failed. I'm guessing it has something to do with the security settings on my Mac.
 
 [Sigh] It turns out that downloading the image from Docker won't work until you verify your email. I didn't see *that* mentioned anywhere, but moving on...
 
